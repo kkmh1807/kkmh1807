@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 🥰👋
+
+My name is Kine.
+
+### About me
+
+📖 Studying Informatics at NTNU in Trondheim.
+
+<img width="18px" src="https://github.com/user-attachments/assets/3db6780e-a4eb-4bcf-b6cc-7691af5caca2" /> Volunteering as a developer at Studentmediene.
 
 <!--
 **kkmh1807/kkmh1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
